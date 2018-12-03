@@ -19,8 +19,11 @@ var task = process.argv[2];
 // Variable for movie, band, etc. entered in command line
 var userChoice = process.argv[3]; 
 
-// Capitalize userChoice
-userChoice = userChoice.charAt(0).toUpperCase() + userChoice.slice(1);
+// Capitalize userChoice if user entered something
+if (userChoice) {
+    
+    userChoice = userChoice.charAt(0).toUpperCase() + userChoice.slice(1);
+}
 
 // Switch statement to select which process to run
 switch (task) {
@@ -55,7 +58,33 @@ switch (task) {
         break;
     
     case "movie-this":
-        console.log("Movie this!")
+        
+        // If the user didn't enter a movie, make userChoice "Mr. Nobody"
+        if (!userChoice) {
+            userChoice = "Mr. Nobody"
+        }
+        
+        // Send API request via axios, using userChoice variable
+        axios
+            .get("http://www.omdbapi.com/?t=" + userChoice + "&apikey=trilogy")
+
+            // Once API response is received...
+            .then(function(response) {
+                               
+                // Set response.data to a variable
+                var res = response.data;
+                
+                // Info to display in console log
+                console.log("Title: " + res.Title);
+                console.log("Year: " + res.Year);
+                console.log("IMDB Rating: " + res.imdbRating);
+                console.log("Rotten Tomatoes Rating: " + res.Ratings[1].Value);
+                console.log("Country of production: " + res.Country);
+                console.log("Language: " + res.Language);
+                console.log("Plot: " + res.Plot);
+                console.log("Actors: " + res.Actors);
+                
+            });
         break;
     
     case "do-what-it-says":

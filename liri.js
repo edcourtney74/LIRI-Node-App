@@ -1,3 +1,7 @@
+// Left to do:
+// Add in error message alerts
+
+
 // Configure dotenv package
 require("dotenv").config();
 
@@ -14,13 +18,12 @@ var keys = require("./keys.js");
 var task = process.argv[2];
 
 // Variable for movie, band, etc. entered in command line
-var userChoice = process.argv[3];
+var userChoice = process.argv.splice(3).join(" ");
 
 // Capitalize userChoice if user entered something
 if (userChoice) {
-
     userChoice = userChoice.charAt(0).toUpperCase() + userChoice.slice(1);
-}
+    }
 
 // FUNCTIONS==============================================================
 // Function to run when user enters concert-this
@@ -31,10 +34,10 @@ function getConcertInfo() {
 
         // Once API response is received...
         .then(function (response) {
-
+            
             // Console.log a title for the results
             console.log(userChoice + "'s next 10 shows");
-
+            
             // Do a for loop to go through the first 10 items returned by the API
             for (i = 0; i < 9; i++) {
                 // Set a variable for venue section of the response
@@ -47,6 +50,10 @@ function getConcertInfo() {
                 // Use moment.js to convert date format
                 console.log("Date: " + moment(response.data[i].datetime).format("MM/DD/YY"));
             }
+        })
+        
+        .catch(function (error) {
+            console.log("There is no concert information for the band/person you are looking for.")
         });
 }
 
@@ -56,9 +63,28 @@ function getSongInfo() {
     var spotify = new Spotify({
         id: keys.spotify.id,
         secret: keys.spotify.secret
-    })
-console.log(spotify)
+    });
+    
+    // If the user didn't enter a song, make userChoice "Mr. Nobody"
+    if (!userChoice) {
+        userChoice = "The Sign Ace of Base"
+    }
+    
+    // Search for song using node-spotify-api
+    spotify.search({ type: "track", query: userChoice }, function(err, response) {
+        // Display message if error is received
+        if (err) {
+        console.log("I'm sorry. The song you entered could not be found.");
+    }
+        // Variable to store temporary response object
+        var songObj = response.tracks.items[0]
 
+        // Console.log info to the terminal
+        console.log("Song: " + songObj.name);
+        console.log("Artist(s): " + songObj.artists[0].name);
+        console.log("Album: " + songObj.album.name);
+        console.log("Preview URL: " + songObj.preview_url);        
+    });
 }
 
 // Function to run when user enters movie-this
@@ -140,5 +166,3 @@ function taskSelected() {
 
 // Starts switch statement to determine which process to run
 taskSelected();
-
-

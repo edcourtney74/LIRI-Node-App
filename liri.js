@@ -43,7 +43,7 @@ function getConcertInfo() {
 
             // Variable for concert title
             var concertTitle = "\n" + userChoice + "'s upcoming shows\n"
-            
+
             // Console.log a title for the results
             console.log(concertTitle);
 
@@ -62,14 +62,14 @@ function getConcertInfo() {
                 // Check to see if there is a value in venue.region. If not, set the value of venue.region to venue.country 
                 if (!venue.region) {
                     venue.region = venue.country
-                } 
+                }
 
                 // Create variable of all results
-                var resultsText = "--------------------\nVenue: " 
-                + venue.name + "\nLocation: " 
-                + venue.city + ", " + venue.region
-                // Use moment to convert to MM/DD/YY format 
-                + "\nDate: " + moment(response.data[i].datetime).format("MM/DD/YY") + "\n";
+                var resultsText = "--------------------\nVenue: "
+                    + venue.name + "\nLocation: "
+                    + venue.city + ", " + venue.region
+                    // Use moment to convert to MM/DD/YY format 
+                    + "\nDate: " + moment(response.data[i].datetime).format("MM/DD/YY") + "\n";
 
                 console.log(resultsText);
 
@@ -85,7 +85,7 @@ function getConcertInfo() {
             // Display error to user in console
             console.log("I'm sorry. I couldn't find concert information for " + userChoice + ".");
             // Append error results to log.txt
-            fs.appendFile("log.txt", "I'm sorry. I couldn't find concert information for " + userChoice + ".", function(err) {
+            fs.appendFile("log.txt", "I'm sorry. I couldn't find concert information for " + userChoice + ".", function (err) {
                 if (err) {
                     console.log(err);
                 }
@@ -108,34 +108,41 @@ function getSongInfo() {
 
     // Search for song using node-spotify-api
     spotify.search({ type: "track", query: userChoice }, function (err, response) {
+        // Display to the user that the top 5 songs will be listed
+        console.log("\nHere's the top 5 results I found for " + userChoice + ".");
+
         // Display message if error is received
         if (err) {
             console.log("I'm sorry. " + userChoice + " could not be found.");
-            fs.appendFile("log.txt", "I'm sorry. " + userChoice + " could not be found.", function() {
+            fs.appendFile("log.txt", "I'm sorry. " + userChoice + " could not be found.", function () {
                 if (err) {
                     console.log(err);
                 }
             })
         }
-        // Variable to store temporary response object
-        var songObj = response.tracks.items[0]
 
-        // Create text variable for console.log and log.txt
-        var songText = "\nSong: " + songObj.name 
-        + "\nArtist(s): " + songObj.artists[0].name
-        + "\nAlbum: " + songObj.album.name
-        + "\nPreview URL: " + songObj.preview_url + "\n";
+        // For loop to go through top 5 songs returned by Spotify
+        for (i = 0; i < 5; i++) {
 
-        // Console log results
-        console.log(songText);
+            // Variable to store temporary response object
+            var songObj = response.tracks.items[i]
 
-        // Append results to log.txt
-        fs.appendFile("log.txt", songText, function(err) {
-            if (err) {
-                console.log(err);
-            }
-        })
+            // Create text variable for console.log and log.txt
+            var songText = "\nSong: " + songObj.name
+                + "\nArtist(s): " + songObj.artists[0].name
+                + "\nAlbum: " + songObj.album.name
+                + "\nPreview URL: " + songObj.preview_url + "\n\n------------------";
 
+            // Console log results
+            console.log(songText);
+
+            // Append results to log.txt
+            fs.appendFile("log.txt", songText, function (err) {
+                if (err) {
+                    console.log(err);
+                }
+            })
+        }
     });
 }
 
@@ -158,28 +165,28 @@ function getMovieInfo() {
 
             // Create response variable for console.log, log.txt
             var movieText = "\n*** " + res.Title + " ***"
-            + "\nYear: " + res.Year
-            + "\nIMDB Rating: " + res.imdbRating
-            + "\nRotten Tomatoes Rating: " + res.Ratings[1].Value
-            + "\nCountry of production: " + res.Country
-            + "\nLanguage: " + res.Language 
-            + "\nPlot: " + res.Plot 
-            + "\nActors: " + res.Actors;
+                + "\nYear: " + res.Year
+                + "\nIMDB Rating: " + res.imdbRating
+                + "\nRotten Tomatoes Rating: " + res.Ratings[1].Value
+                + "\nCountry of production: " + res.Country
+                + "\nLanguage: " + res.Language
+                + "\nPlot: " + res.Plot
+                + "\nActors: " + res.Actors;
 
             // Console.log results
             console.log(movieText);
 
             // Append results to log.txt
-            fs.appendFile("log.txt", movieText, function(err) {
+            fs.appendFile("log.txt", movieText, function (err) {
                 if (err) {
-                console.log(err);
-            }
-        })
+                    console.log(err);
+                }
+            })
 
         })
         // Set a catch function to long an error if nothing is found
         .catch(function (error) {
-            console.log("I'm sorry. We couldn't find any information for that movie.")
+            console.log("I'm sorry. I couldn't find any information for that movie.")
         });
 }
 

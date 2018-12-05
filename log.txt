@@ -441,3 +441,232 @@ Date: 02/02/19
 Venue: Sirromet Wines
 Location: Mount Cotton, Australia
 Date: 02/03/19
+
+===============================
+
+do-what-it-says: 
+
+Song: I Want It That Way
+Artist(s): Backstreet Boys
+Album: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+===============================
+
+spotify-this-song: Hello
+
+Song: Hello
+Artist(s): Adele
+Album: 25
+Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+===============================
+
+spotify-this-song: Hello
+
+Song: Hello Beautiful
+Artist(s): Noah Schnacky
+Album: Hello Beautiful
+Preview URL: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+===============================
+
+spotify-this-song: Hello
+
+Song: Hello
+Artist(s): Adele
+Album: 25
+Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+Song: Hello
+Artist(s): Adele
+Album: Hello
+Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+Song: Hello Beautiful
+Artist(s): Noah Schnacky
+Album: Hello Beautiful
+Preview URL: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+Song: Hello My Old Heart
+Artist(s): The Oh Hellos
+Album: The Oh Hellos EP
+Preview URL: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+Song: Hello?
+Artist(s): Clairo
+Album: diary 001
+Preview URL: null
+
+===============================
+
+spotify-this-song: Hello
+
+Song: Hello
+Artist(s): Adele
+Album: 25
+Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=e3dbda68a56e4b789b43dfbbb740404c
+------------------
+
+Song: Hello Beautiful
+Artist(s): Noah Schnacky
+Album: Hello Beautiful
+Preview URL: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=e3dbda68a56e4b789b43dfbbb740404c
+------------------
+
+Song: Hello?
+Artist(s): Clairo
+Album: diary 001
+Preview URL: null
+------------------
+
+Song: Hello
+Artist(s): Adele
+Album: Hello
+Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=e3dbda68a56e4b789b43dfbbb740404c
+------------------
+
+Song: Hello My Old Heart
+Artist(s): The Oh Hellos
+Album: The Oh Hellos EP
+Preview URL: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=e3dbda68a56e4b789b43dfbbb740404c
+------------------
+
+===============================
+
+spotify-this-song: Hello
+
+Song: Hello Beautiful
+Artist(s): Noah Schnacky
+Album: Hello Beautiful
+Preview URL: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+------------------
+Song: Hello My Old Heart
+Artist(s): The Oh Hellos
+Album: The Oh Hellos EP
+Preview URL: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+------------------
+Song: Hello
+Artist(s): Adele
+Album: Hello
+Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+------------------
+Song: Hello
+Artist(s): Adele
+Album: 25
+Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+------------------
+Song: Hello?
+Artist(s): Clairo
+Album: diary 001
+Preview URL: null
+
+------------------
+===============================
+
+spotify-this-song: Hello lionel richie
+
+Song: Hello
+Artist(s): Lionel Richie
+Album: Can't Slow Down
+Preview URL: null
+
+------------------
+Song: Hello
+Artist(s): Lionel Richie
+Album: The Best Of Lionel Richie 20th Century Masters The Millennium Collection
+Preview URL: null
+
+------------------
+Song: Hello
+Artist(s): Lionel Richie
+Album: Tuskegee
+Preview URL: null
+
+------------------
+Song: Hello
+Artist(s): Lionel Richie
+Album: The Definitive Collection
+Preview URL: null
+
+------------------
+Song: Hello
+Artist(s): Lionel Richie
+Album: Can't Slow Down
+Preview URL: null
+
+------------------
+===============================
+
+spotify-this-song: Hello
+
+Song: Hello
+Artist(s): Adele
+Album: 25
+Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+------------------
+Song: Hello
+Artist(s): Adele
+Album: Hello
+Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+------------------
+Song: Hello?
+Artist(s): Clairo
+Album: diary 001
+Preview URL: null
+
+------------------
+Song: Hello My Old Heart
+Artist(s): The Oh Hellos
+Album: The Oh Hellos EP
+Preview URL: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+------------------
+Song: Hello Beautiful
+Artist(s): Noah Schnacky
+Album: Hello Beautiful
+Preview URL: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+------------------
+===============================
+
+movie-this: Amelie
+
+===============================
+
+movie-this: Donnie darko
+
+*** Donnie Darko ***
+Year: 2001
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 87%
+Country of production: USA
+Language: English
+Plot: A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident.
+Actors: Jake Gyllenhaal, Holmes Osborne, Maggie Gyllenhaal, Daveigh Chase
+===============================
+
+movie-this: Hello
+
+===============================
+
+movie-this: Yeah
+
+===============================
+
+movie-this: Downfall
+
+*** Downfall ***
+Year: 2004
+IMDB Rating: 8.2
+Rotten Tomatoes Rating: 91%
+Country of production: Germany, Austria, Italy
+Language: German, Russian, Hungarian
+Plot: Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.
+Actors: Bruno Ganz, Alexandra Maria Lara, Corinna Harfouch, Ulrich Matthes

@@ -357,3 +357,87 @@ Song: I Want It That Way
 Artist(s): Backstreet Boys
 Album: The Hits--Chapter One
 Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+===============================
+
+concert-this: Nelly
+--------------------
+Venue: Temple Nightclub Denver
+Location: Denver, CO, United States
+Date: 12/12/18
+--------------------
+Venue: Temple Nightclub
+Location: San Francisco, CA, United States
+Date: 12/13/18
+--------------------
+Venue: Park City Live
+Location: Park City, UT, United States
+Date: 12/15/18
+--------------------
+Venue: Golden Nugget Hotel & Casino
+Location: Lake Charles, LA, United States
+Date: 12/21/18
+
+Nelly's upcoming shows
+--------------------
+Venue: Motorcity Casino Hotel
+Location: Detroit, MI, United States
+Date: 12/27/18
+--------------------
+Venue: Soaring Eagle Casino & Resort
+Location: Mount Pleasant, MI, United States
+Date: 12/28/18
+--------------------
+Venue: Oliver Colvin Recital Hall
+Location: Boston, MA, United States
+Date: 02/01/19
+--------------------
+Venue: Esca Bimbadgen
+Location: Pokolbin, , Australia
+Date: 02/02/19
+--------------------
+Venue: Sirromet Wines
+Location: Mount Cotton, , Australia
+Date: 02/03/19
+
+===============================
+
+concert-this: Nelly
+
+Nelly's upcoming shows
+--------------------
+Venue: Temple Nightclub Denver
+Location: Denver, CO
+Date: 12/12/18
+--------------------
+Venue: Park City Live
+Location: Park City, UT
+Date: 12/15/18
+--------------------
+Venue: Temple Nightclub
+Location: San Francisco, CA
+Date: 12/13/18
+--------------------
+Venue: Motorcity Casino Hotel
+Location: Detroit, MI
+Date: 12/27/18
+--------------------
+Venue: Golden Nugget Hotel & Casino
+Location: Lake Charles, LA
+Date: 12/21/18
+--------------------
+Venue: Soaring Eagle Casino & Resort
+Location: Mount Pleasant, MI
+Date: 12/28/18
+--------------------
+Venue: Oliver Colvin Recital Hall
+Location: Boston, MA
+Date: 02/01/19
+--------------------
+Venue: Esca Bimbadgen
+Location: Pokolbin, Australia
+Date: 02/02/19
+--------------------
+Venue: Sirromet Wines
+Location: Mount Cotton, Australia
+Date: 02/03/19

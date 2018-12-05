@@ -59,6 +59,11 @@ function getConcertInfo() {
                 // Set a variable for venue section of the response
                 var venue = response.data[i].venue;
 
+                // Check to see if there is a value in venue.region. If not, set the value of venue.region to venue.country 
+                if (!venue.region) {
+                    venue.region = venue.country
+                } 
+
                 // Create variable of all results
                 var resultsText = "--------------------\nVenue: " 
                 + venue.name + "\nLocation: " 

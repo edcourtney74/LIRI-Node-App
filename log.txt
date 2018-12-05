@@ -274,3 +274,86 @@ concert-this: Adfvagbnfgib
 
 Adfvagbnfgib's upcoming shows
 I'm sorry. I couldn't find concert information for Adfvagbnfgib.
+===============================
+
+spotify-this: 
+
+===============================
+
+spotify-this-song: 
+--------------------
+Song: The Sign
+Artist(s): Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+===============================
+
+spotify-this-song: Mr. november
+--------------------
+Song: Mr. November
+Artist(s): The National
+Album: Alligator
+Preview URL: https://p.scdn.co/mp3-preview/229fbdc3a212edc5821a3e87cc7f77db5cef4d70?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+===============================
+
+spotify-this-song: Mr. november
+Song: Mr. November
+Artist(s): The National
+Album: Alligator
+Preview URL: https://p.scdn.co/mp3-preview/229fbdc3a212edc5821a3e87cc7f77db5cef4d70?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+===============================
+
+spotify-this-song: Mr. november
+
+Song: Mr. November
+Artist(s): The National
+Album: Alligator
+Preview URL: https://p.scdn.co/mp3-preview/229fbdc3a212edc5821a3e87cc7f77db5cef4d70?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+===============================
+
+spotify-this-song: Mr. november
+
+Song: Mr. November
+Artist(s): The National
+Album: Alligator
+Preview URL: https://p.scdn.co/mp3-preview/229fbdc3a212edc5821a3e87cc7f77db5cef4d70?cid=e3dbda68a56e4b789b43dfbbb740404c
+
+===============================
+
+movie-this: The breakfast club
+*** The Breakfast Club ***Year: 1985IMDB Rating: 7.9Rotten Tomatoes Rating: 88%Country of production: USALanguage: EnglishPlot: Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.Actors: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
+===============================
+
+movie-this: The breakfast club
+*** The Breakfast Club ***
+Year: 1985
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 88%
+Country of production: USA
+Language: English
+Plot: Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.
+Actors: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
+===============================
+
+movie-this: The breakfast club
+
+*** The Breakfast Club ***
+Year: 1985
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 88%
+Country of production: USA
+Language: English
+Plot: Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.
+Actors: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
+===============================
+
+do-what-it-says: 
+
+Song: I Want It That Way
+Artist(s): Backstreet Boys
+Album: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e3dbda68a56e4b789b43dfbbb740404c

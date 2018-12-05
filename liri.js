@@ -76,7 +76,7 @@ function getConcertInfo() {
                 })
             }
         })
-        .catch(function (error) {
+        .catch(function (err) {
             // Display error to user in console
             console.log("I'm sorry. I couldn't find concert information for " + userChoice + ".");
             // Append error results to log.txt
@@ -105,8 +105,8 @@ function getSongInfo() {
     spotify.search({ type: "track", query: userChoice }, function (err, response) {
         // Display message if error is received
         if (err) {
-            console.log("I'm sorry. The song you entered could not be found.");
-            fs.appendFile("log.txt", "I'm sorry. The song you entered could not be found.", function() {
+            console.log("I'm sorry. " + userChoice + " could not be found.");
+            fs.appendFile("log.txt", "I'm sorry. " + userChoice + " could not be found.", function() {
                 if (err) {
                     console.log(err);
                 }
@@ -115,12 +115,22 @@ function getSongInfo() {
         // Variable to store temporary response object
         var songObj = response.tracks.items[0]
 
-        // Console.log info to the terminal
-        console.log("--------------------")
-        console.log("Song: " + songObj.name);
-        console.log("Artist(s): " + songObj.artists[0].name);
-        console.log("Album: " + songObj.album.name);
-        console.log("Preview URL: " + songObj.preview_url);
+        // Create text variable for console.log and log.txt
+        var songText = "\nSong: " + songObj.name 
+        + "\nArtist(s): " + songObj.artists[0].name
+        + "\nAlbum: " + songObj.album.name
+        + "\nPreview URL: " + songObj.preview_url + "\n";
+
+        // Console log results
+        console.log(songText);
+
+        // Append results to log.txt
+        fs.appendFile("log.txt", songText, function(err) {
+            if (err) {
+                console.log(err);
+            }
+        })
+
     });
 }
 
@@ -141,15 +151,26 @@ function getMovieInfo() {
             // Set response.data to a variable
             var res = response.data;
 
-            // Info from response datato display in console log 
-            console.log("*** " + res.Title + " ***");
-            console.log("Year: " + res.Year);
-            console.log("IMDB Rating: " + res.imdbRating);
-            console.log("Rotten Tomatoes Rating: " + res.Ratings[1].Value);
-            console.log("Country of production: " + res.Country);
-            console.log("Language: " + res.Language);
-            console.log("Plot: " + res.Plot);
-            console.log("Actors: " + res.Actors);
+            // Create response variable for console.log, log.txt
+            var movieText = "\n*** " + res.Title + " ***"
+            + "\nYear: " + res.Year
+            + "\nIMDB Rating: " + res.imdbRating
+            + "\nRotten Tomatoes Rating: " + res.Ratings[1].Value
+            + "\nCountry of production: " + res.Country
+            + "\nLanguage: " + res.Language 
+            + "\nPlot: " + res.Plot 
+            + "\nActors: " + res.Actors;
+
+            // Console.log results
+            console.log(movieText);
+
+            // Append results to log.txt
+            fs.appendFile("log.txt", movieText, function(err) {
+                if (err) {
+                console.log(err);
+            }
+        })
+
         })
         // Set a catch function to long an error if nothing is found
         .catch(function (error) {

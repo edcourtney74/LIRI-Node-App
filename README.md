@@ -19,8 +19,8 @@ LIRI is a command-line node app that returns info on concerts, music and movies 
   * If the user does not input a movie, the information for "Mr. Nobody" will be displayed.
   * If the user does input a movie but it didn't yield any results, LIRI lets the user know that no information was found.
 ### Do What It Says
-  * This function reads the file random.txt and runs the task and input in that file. 
-  * The default is currently the spotify-this-song function for "I Want It That Way," but this can be easily changed by edited random.txt.
+  * The user enters the phrase "do-what-it-says" and LIRI reads the file random.txt and runs the task and input for that file. 
+  * The default is currently the spotify-this-song function for "I Want It That Way," so LIRI will return song information, but this can be easily changed by inserting a different function and input into random.txt.
 ### Other features
   * The user input and results are displayed in both the terminal and in a file called log.txt. Log.txt keeps track of all LIRI history.
   * The first letter of the user's input is capitalized for a nicer look.

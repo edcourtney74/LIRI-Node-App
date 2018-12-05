@@ -2,7 +2,7 @@
 LIRI is a command-line node app that returns info on concerts, music and movies based on the user's input.
 
 ## Get Started
-  * To get information from LIRI, the user must go to the command line and type in "node liri", followed by one of four options and a user input (except for the do-what-it-says option).
+  * To get information from LIRI, the user must go to the command line and type in "node liri", followed by one of four options and a user input.
   * The four options available (and how to initiate them on the command line):
     * node liri concert-this the national (concert-this must be hyphenated, but the user does not need to use hyphenation or quotations for the artist/band input
     * node liri spotify-this-song about today the national

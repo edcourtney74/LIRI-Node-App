@@ -1,0 +1,276 @@
+movie-thisThe breakfast clubmovie-this: The breakfast club
+movie-this: The breakfast club
+movie-this: The breakfast club
+concert-this: Nelly
+concert-this: Nelly
+concert-this: Nelly
+concert-this: Nelly--------------------
+Venue: Temple Nightclub Denver
+Location: Denver, CO
+Date: 12/12/18
+--------------------
+Venue: Golden Nugget Hotel & Casino
+Location: Lake Charles, LA
+Date: 12/21/18
+--------------------
+Venue: Temple Nightclub
+Location: San Francisco, CA
+Date: 12/13/18
+--------------------
+Venue: Soaring Eagle Casino & Resort
+Location: Mount Pleasant, MI
+Date: 12/28/18
+--------------------
+Venue: Motorcity Casino Hotel
+Location: Detroit, MI
+Date: 12/27/18
+--------------------
+Venue: Oliver Colvin Recital Hall
+Location: Boston, MA
+Date: 02/01/19
+--------------------
+Venue: Esca Bimbadgen
+Location: Pokolbin, 
+Date: 02/02/19
+--------------------
+Venue: Park City Live
+Location: Park City, UT
+Date: 12/15/18
+--------------------
+Venue: Sirromet Wines
+Location: Mount Cotton, 
+Date: 02/03/19
+
+concert-this: Nelly
+Nelly's upcoming shows--------------------
+Venue: Temple Nightclub Denver
+Location: Denver, CO
+Date: 12/12/18
+--------------------
+Venue: Temple Nightclub
+Location: San Francisco, CA
+Date: 12/13/18
+--------------------
+Venue: Park City Live
+Location: Park City, UT
+Date: 12/15/18
+--------------------
+Venue: Golden Nugget Hotel & Casino
+Location: Lake Charles, LA
+Date: 12/21/18
+--------------------
+Venue: Soaring Eagle Casino & Resort
+Location: Mount Pleasant, MI
+Date: 12/28/18
+--------------------
+Venue: Oliver Colvin Recital Hall
+Location: Boston, MA
+Date: 02/01/19
+--------------------
+Venue: Motorcity Casino Hotel
+Location: Detroit, MI
+Date: 12/27/18
+--------------------
+Venue: Esca Bimbadgen
+Location: Pokolbin, 
+Date: 02/02/19
+--------------------
+Venue: Sirromet Wines
+Location: Mount Cotton, 
+Date: 02/03/19
+
+concert-this: Nelly
+
+Nelly's upcoming shows--------------------
+Venue: Temple Nightclub Denver
+Location: Denver, CO
+Date: 12/12/18
+--------------------
+Venue: Golden Nugget Hotel & Casino
+Location: Lake Charles, LA
+Date: 12/21/18
+--------------------
+Venue: Temple Nightclub
+Location: San Francisco, CA
+Date: 12/13/18
+--------------------
+Venue: Park City Live
+Location: Park City, UT
+Date: 12/15/18
+--------------------
+Venue: Motorcity Casino Hotel
+Location: Detroit, MI
+Date: 12/27/18
+--------------------
+Venue: Soaring Eagle Casino & Resort
+Location: Mount Pleasant, MI
+Date: 12/28/18
+--------------------
+Venue: Oliver Colvin Recital Hall
+Location: Boston, MA
+Date: 02/01/19
+--------------------
+Venue: Esca Bimbadgen
+Location: Pokolbin, 
+Date: 02/02/19
+--------------------
+Venue: Sirromet Wines
+Location: Mount Cotton, 
+Date: 02/03/19
+
+concert-this: Nelly
+
+Nelly's upcoming shows
+--------------------
+Venue: Temple Nightclub Denver
+Location: Denver, CO
+Date: 12/12/18
+--------------------
+Venue: Golden Nugget Hotel & Casino
+Location: Lake Charles, LA
+Date: 12/21/18
+--------------------
+Venue: Temple Nightclub
+Location: San Francisco, CA
+Date: 12/13/18
+--------------------
+Venue: Soaring Eagle Casino & Resort
+Location: Mount Pleasant, MI
+Date: 12/28/18
+--------------------
+Venue: Park City Live
+Location: Park City, UT
+Date: 12/15/18
+--------------------
+Venue: Motorcity Casino Hotel
+Location: Detroit, MI
+Date: 12/27/18
+--------------------
+Venue: Esca Bimbadgen
+Location: Pokolbin, 
+Date: 02/02/19
+--------------------
+Venue: Oliver Colvin Recital Hall
+Location: Boston, MA
+Date: 02/01/19
+--------------------
+Venue: Sirromet Wines
+Location: Mount Cotton, 
+Date: 02/03/19
+===============================
+concert-this: Nelly
+
+Nelly's upcoming shows
+--------------------
+Venue: Temple Nightclub Denver
+Location: Denver, CO
+Date: 12/12/18
+--------------------
+Venue: Golden Nugget Hotel & Casino
+Location: Lake Charles, LA
+Date: 12/21/18
+--------------------
+Venue: Temple Nightclub
+Location: San Francisco, CA
+Date: 12/13/18
+--------------------
+Venue: Park City Live
+Location: Park City, UT
+Date: 12/15/18
+--------------------
+Venue: Motorcity Casino Hotel
+Location: Detroit, MI
+Date: 12/27/18
+--------------------
+Venue: Soaring Eagle Casino & Resort
+Location: Mount Pleasant, MI
+Date: 12/28/18
+--------------------
+Venue: Esca Bimbadgen
+Location: Pokolbin, 
+Date: 02/02/19
+--------------------
+Venue: Sirromet Wines
+Location: Mount Cotton, 
+Date: 02/03/19
+--------------------
+Venue: Oliver Colvin Recital Hall
+Location: Boston, MA
+Date: 02/01/19
+
+===============================
+
+concert-this: Nelly
+
+Nelly's upcoming shows
+--------------------
+Venue: Temple Nightclub Denver
+Location: Denver, CO
+Date: 12/12/18
+--------------------
+Venue: Temple Nightclub
+Location: San Francisco, CA
+Date: 12/13/18
+--------------------
+Venue: Park City Live
+Location: Park City, UT
+Date: 12/15/18
+--------------------
+Venue: Golden Nugget Hotel & Casino
+Location: Lake Charles, LA
+Date: 12/21/18
+--------------------
+Venue: Motorcity Casino Hotel
+Location: Detroit, MI
+Date: 12/27/18
+--------------------
+Venue: Soaring Eagle Casino & Resort
+Location: Mount Pleasant, MI
+Date: 12/28/18
+--------------------
+Venue: Oliver Colvin Recital Hall
+Location: Boston, MA
+Date: 02/01/19
+--------------------
+Venue: Esca Bimbadgen
+Location: Pokolbin, 
+Date: 02/02/19
+--------------------
+Venue: Sirromet Wines
+Location: Mount Cotton, 
+Date: 02/03/19
+
+===============================
+
+concert-this: 
+I'm sorry. There is no concert information for the band/person you are looking for.
+===============================
+
+concert-this: Adfvagbnfgib
+
+Adfvagbnfgib's upcoming shows
+I'm sorry. There is no concert information for the band/person you are looking for.
+===============================
+
+concert-this: Adfvagbnfgib
+
+Adfvagbnfgib's upcoming shows
+I couldn't find concert information forAdfvagbnfgib.
+===============================
+
+concert-this: Adfvagbnfgib
+
+Adfvagbnfgib's upcoming shows
+I couldn't find concert information forAdfvagbnfgib.
+===============================
+
+concert-this: Adfvagbnfgib
+
+Adfvagbnfgib's upcoming shows
+I couldn't find concert information for Adfvagbnfgib.
+===============================
+
+concert-this: Adfvagbnfgib
+
+Adfvagbnfgib's upcoming shows
+I'm sorry. I couldn't find concert information for Adfvagbnfgib.

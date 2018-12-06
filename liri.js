@@ -107,43 +107,48 @@ function getSongInfo() {
     }
 
     // Search for song using node-spotify-api
-    spotify.search({ type: "track", query: userChoice }, function (err, response) {
-        // Display to the user that the top 5 songs will be listed
-        console.log("\nHere's the top 5 results I found for " + userChoice + ".");
+    spotify.search({ type: "track", query: userChoice })
+        .then(function(response) {
+            // Check if any information was returned
+            // If so, display heading to terminal
+            if (response.tracks.items[0]) {
+                console.log("\nHere's the top results I found for " + userChoice + ".")
+            
+            // If not, tell the user nothing was found
+            } else {
+                console.log("I'm sorry. I couldn't find any information about " + userChoice + ".");
+            }
 
-        // Display message if error is received
-        if (err) {
-            console.log("I'm sorry. " + userChoice + " could not be found.");
-            fs.appendFile("log.txt", "I'm sorry. " + userChoice + " could not be found.", function () {
-                if (err) {
-                    console.log(err);
+            // For loop to go through up to 5 songs returned by Spotify
+            for (i = 0; i < 5; i++) {
+
+                // Check to see if a song is listed in this spot. If no more data is present, process won't run (for example, some search criteria might only come back with three songs)
+                if (response.tracks.items[i]) {
+
+                    // Variable to store temporary response object
+                    var songObj = response.tracks.items[i]
+
+                    // Create text variable for console.log and log.txt
+                    var songText = "\nSong: " + songObj.name
+                        + "\nArtist(s): " + songObj.artists[0].name
+                        + "\nAlbum: " + songObj.album.name
+                        + "\nPreview URL: " + songObj.preview_url + "\n\n------------------";
+
+                    // Console log results
+                    console.log(songText);
+
+                    // Append results to log.txt
+                    fs.appendFile("log.txt", songText, function (err) {
+                        if (err) {
+                            console.log(err);
+                        }
+                    })
                 }
-            })
-        }
-
-        // For loop to go through top 5 songs returned by Spotify
-        for (i = 0; i < 5; i++) {
-
-            // Variable to store temporary response object
-            var songObj = response.tracks.items[i]
-
-            // Create text variable for console.log and log.txt
-            var songText = "\nSong: " + songObj.name
-                + "\nArtist(s): " + songObj.artists[0].name
-                + "\nAlbum: " + songObj.album.name
-                + "\nPreview URL: " + songObj.preview_url + "\n\n------------------";
-
-            // Console log results
-            console.log(songText);
-
-            // Append results to log.txt
-            fs.appendFile("log.txt", songText, function (err) {
-                if (err) {
-                    console.log(err);
-                }
-            })
-        }
-    });
+            }
+        })  
+        .catch(function(err) {
+            console.log(err);
+        });    
 }
 
 // Function to run when user enters movie-this

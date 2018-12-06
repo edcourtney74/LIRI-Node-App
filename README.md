@@ -14,6 +14,8 @@ LIRI is a command-line node app that returns info on concerts, music and movies 
   * If no state is listed, LIRI returns the country instead.
   * If no concert information is found, LIRI lets the user know that no information was found.
   * Utilizes information from Bands In Town API.
+  
+![Concert-this guide](https://github.com/edcourtney74/LIRI-Node-App/blob/master/images/concert-this.gif "Concert-this" )
 ### Song Search
   * LIRI returns the song title that best matches the user's input, the artist, the album name, and a link to a 30-second preview of the song on Spotify.
   * Song information is limited to the first five tracks returned in order to not overwhelm the user with information.

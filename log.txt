@@ -49,36 +49,6 @@ Aslsdka's upcoming shows
 I'm sorry. I couldn't find concert information for Aslsdka.
 ===============================
 
-spotify-this-song: About today the national
-
-Song: About Today
-Artist(s): The National
-Album: Cherry Tree
-Preview URL: https://p.scdn.co/mp3-preview/aeacf406b640ddc545f68634b5205e6e79c8c7be?cid=e3dbda68a56e4b789b43dfbbb740404c
-
-------------------
-Song: About Today [Live]
-Artist(s): The National
-Album: The Virginia EP
-Preview URL: https://p.scdn.co/mp3-preview/656e2914d9918481aef986c6ea4a30e0305270f3?cid=e3dbda68a56e4b789b43dfbbb740404c
-
-------------------I'm sorry. About today the national could not be found.
-===============================
-
-spotify-this-song: About today the national
-
-Song: About Today
-Artist(s): The National
-Album: Cherry Tree
-Preview URL: https://p.scdn.co/mp3-preview/aeacf406b640ddc545f68634b5205e6e79c8c7be?cid=e3dbda68a56e4b789b43dfbbb740404c
-
-------------------
-Song: About Today [Live]
-Artist(s): The National
-Album: The Virginia EP
-Preview URL: https://p.scdn.co/mp3-preview/656e2914d9918481aef986c6ea4a30e0305270f3?cid=e3dbda68a56e4b789b43dfbbb740404c
-
-------------------
 ===============================
 
 spotify-this-song: Hello
@@ -181,167 +151,116 @@ Album: The Sign (US Album) [Remastered]
 Preview URL: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=e3dbda68a56e4b789b43dfbbb740404c
 
 ------------------
-===============================
-
-spotify-this-song: Sadcfainina
 
 ===============================
 
-spotify-this-song: Adfvnuaofdodan
+spotify-this-song: Asdiomismoda
 
 ===============================
 
-spotify-this-song: Adiomadofm
+movie-this: The breakfast club
+
+*** The Breakfast Club ***
+Year: 1985
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 88%
+Country of production: USA
+Language: English
+Plot: Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.
+Actors: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
+===============================
+
+movie-this: 
+
+*** Mr. Nobody ***
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 67%
+Country of production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+===============================
+
+movie-this: Aodifmoaidmfom
 
 ===============================
 
-spotify-this-song: Adiomadofm
+do-what-it-says: 
 
-===============================
-
-spotify-this-song: Adiomadofm
-
-===============================
-
-spotify-this-song: Hello
-
-Song: Hello Beautiful
-Artist(s): Noah Schnacky
-Album: Hello Beautiful
-Preview URL: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=e3dbda68a56e4b789b43dfbbb740404c
+Song: I Want It That Way
+Artist(s): Backstreet Boys
+Album: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e3dbda68a56e4b789b43dfbbb740404c
 
 ------------------
-Song: Hello
-Artist(s): Adele
-Album: 25
-Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=e3dbda68a56e4b789b43dfbbb740404c
+Song: I Want It That Way
+Artist(s): Backstreet Boys
+Album: Millennium
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e3dbda68a56e4b789b43dfbbb740404c
 
 ------------------
-Song: Hello?
-Artist(s): Clairo
-Album: diary 001
-Preview URL: null
+Song: I Want It That Way
+Artist(s): Anthem Lights
+Album: Covers Part IV
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e3dbda68a56e4b789b43dfbbb740404c
 
 ------------------
-Song: Hello
-Artist(s): Adele
-Album: Hello
-Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=e3dbda68a56e4b789b43dfbbb740404c
+Song: I Want It That Way
+Artist(s): Tyler and Mark
+Album: Beautiful Dreams
+Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=e3dbda68a56e4b789b43dfbbb740404c
 
 ------------------
-Song: Hello My Old Heart
-Artist(s): The Oh Hellos
-Album: The Oh Hellos EP
-Preview URL: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=e3dbda68a56e4b789b43dfbbb740404c
-
-------------------
-===============================
-
-spotify-this-song: Hello lionel richie
-
-Song: Hello
-Artist(s): Lionel Richie
-Album: Can't Slow Down
-Preview URL: null
-
-------------------
-Song: Hello
-Artist(s): Lionel Richie
-Album: The Best Of Lionel Richie 20th Century Masters The Millennium Collection
-Preview URL: null
-
-------------------
-Song: Hello
-Artist(s): Lionel Richie
-Album: The Definitive Collection
-Preview URL: null
-
-------------------
-Song: Hello
-Artist(s): Lionel Richie
-Album: Can't Slow Down
-Preview URL: null
-
-------------------
-Song: Hello
-Artist(s): Lionel Richie
-Album: Tuskegee
+Song: I Want It That Way
+Artist(s): Dynamite Boy
+Album: Punk Goes Pop
 Preview URL: null
 
 ------------------
 ===============================
 
-spotify-this-song: Hello lionel richie
+do-what-it-says: 
 
-Song: Hello
-Artist(s): Lionel Richie
-Album: Can't Slow Down
-Preview URL: null
-
-------------------
-Song: Hello
-Artist(s): Lionel Richie
-Album: The Best Of Lionel Richie 20th Century Masters The Millennium Collection
-Preview URL: null
-
-------------------
-Song: Hello
-Artist(s): Lionel Richie
-Album: Tuskegee
-Preview URL: null
-
-------------------
-Song: Hello
-Artist(s): Lionel Richie
-Album: Can't Slow Down
-Preview URL: null
-
-------------------
-Song: Hello
-Artist(s): Lionel Richie
-Album: The Definitive Collection
-Preview URL: null
-
-------------------
+*** The Breakfast Club ***
+Year: 1985
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 88%
+Country of production: USA
+Language: English
+Plot: Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.
+Actors: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
 ===============================
 
-spotify-this-song: Sdacafdoimo
+do-what-it-says: 
 
-===============================
-
-spotify-this-song: Sdacafdoimo
-
-===============================
-
-spotify-this-song: 
-
-Song: The Sign
-Artist(s): Ace of Base
-Album: The Sign (US Album) [Remastered]
-Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=e3dbda68a56e4b789b43dfbbb740404c
+Song: I Want It That Way
+Artist(s): Backstreet Boys
+Album: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e3dbda68a56e4b789b43dfbbb740404c
 
 ------------------
-Song: All That She Wants
-Artist(s): Ace of Base
-Album: The Sign (US Album) [Remastered]
-Preview URL: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=e3dbda68a56e4b789b43dfbbb740404c
+Song: I Want It That Way
+Artist(s): Anthem Lights
+Album: Covers Part IV
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e3dbda68a56e4b789b43dfbbb740404c
 
 ------------------
-Song: The Sign
-Artist(s): Ace of Base
-Album: Greatest Hits
-Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=e3dbda68a56e4b789b43dfbbb740404c
+Song: I Want It That Way
+Artist(s): Tyler and Mark
+Album: Beautiful Dreams
+Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=e3dbda68a56e4b789b43dfbbb740404c
 
 ------------------
-Song: Don't Turn Around
-Artist(s): Ace of Base
-Album: The Sign (US Album) [Remastered]
-Preview URL: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=e3dbda68a56e4b789b43dfbbb740404c
+Song: I Want It That Way
+Artist(s): Backstreet Boys
+Album: Millennium
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e3dbda68a56e4b789b43dfbbb740404c
 
 ------------------
-Song: Living in Danger
-Artist(s): Ace of Base
-Album: The Sign (US Album) [Remastered]
-Preview URL: https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=e3dbda68a56e4b789b43dfbbb740404c
+Song: I Want It That Way
+Artist(s): Dynamite Boy
+Album: Punk Goes Pop
+Preview URL: null
 
 ------------------
